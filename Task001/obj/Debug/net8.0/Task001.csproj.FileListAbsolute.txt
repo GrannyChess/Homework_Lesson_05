@@ -1,0 +1,15 @@
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\bin\Debug\net8.0\Task001.exe
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\bin\Debug\net8.0\Task001.deps.json
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\bin\Debug\net8.0\Task001.runtimeconfig.json
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\bin\Debug\net8.0\Task001.dll
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\bin\Debug\net8.0\Task001.pdb
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.AssemblyInfoInputs.cache
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.AssemblyInfo.cs
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.csproj.CoreCompileInputs.cache
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.sourcelink.json
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.dll
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\refint\Task001.dll
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.pdb
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\Task001.genruntimeconfig.cache
+D:\GB\Программирование\Lesson_05\Homework_Lesson_05\Task001\obj\Debug\net8.0\ref\Task001.dll
